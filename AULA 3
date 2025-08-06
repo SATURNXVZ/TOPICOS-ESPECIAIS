@@ -1,0 +1,9 @@
+  Nesta aula veremos:
+Abstract;
+Herança;
+Polimorfismo;
+Interface;
+Encapsulamento;
+
+A ideia DRY(Dont repeat yourself), se tiver que repetir seu código, use herança, ou qualquer outro tipo;
+
