@@ -1,1 +1,37 @@
+Finalmente aula prática;
+
+HERANÇA;
+INTERFACE;
+POLIMORFISMO;
+ENCAPSULAMENTO;
+CONSTRUTORES;
+
+BACK-END usará orientação em objeto, independente da linguagem;
+
+Método SCRUM: Orientação em Objetos;
+
+HERANÇA:
+Animal, molde para os demais, ex:
+ANIMAL = {dormir(), comer()};
+GATO = ANIMAL;
+
+isso também se encaixa em polimorfismo;
+
+INTERFACE:
+Várias sendo implementadas por a mesma classe, porém, apenas 1 escrita;
+Podemos ter varias informações ou funções, fazendo parte oiu não da classe mãe;
+
+Imagine isso como peças de LEGO;
+
+
+
+
+
+
+
+
+
+
+
+
 
