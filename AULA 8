@@ -1,1 +1,12 @@
+FRONT
+
+
+
+Criar pastinhas e colocar coisas dentro, como se fosse uma lib de pacote, chamada de model;
+
+Com FLASK, cria a pagina em python
+
+Métodos para ENVIO/RECEBIMENTO:
+Post: Manda escondido, manda mais coisa e mais seguro, não perde conteúdos ao trocar de página;
+Get: Manda por URL;
 
